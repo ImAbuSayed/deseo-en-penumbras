@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en penumbras
+
+This log tracks the cryptographic history and versioning for the song **Deseo en penumbras** (deseo-en-penumbras).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:21:37.456442 | `v1` | `2817c52d3300c327e95164f6b4d02cbab8e2ed25d30e2a8270112964ca8f4ccd` | `219bd5aecad1c784ca7e56defe301219699c61358b7e28b0282bac00a03e798a` | `2026-06-20_deseo-en-penumbras-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
