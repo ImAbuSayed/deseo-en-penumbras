@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-penumbras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
+| **Get License** | [Get License For Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la disco ya se enciende
+> Nena, sabes que mi vibra no se vende
+> En la penumbra tu perfume a mí me llama
+> Yo soy el fuego y tú la dueña de mi cama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
