@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Deseo en penumbras |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-penumbras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
+| **Get License** | [Get a Licensing Quote for Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tú me miras y la disco ya se enciende
-> Nena, sabes que mi vibra no se vende
-> En la penumbra tu perfume a mí me llama
-> Yo soy el fuego y tú la dueña de mi cama
+> Penumbras, donde tus ojos me encuentran
+> Tus labios son fuego que queman mi piel
+> Bailamos tan lento, el tiempo se frena
+> Deseo en penumbras, no quiero perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
