@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-penumbras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
+| **Get License** | [Get a Licensing Quote for Deseo en penumbras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-penumbras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3732)
+- [Telegram](https://t.me/AbuSayedMusic/3739)
 
 ---
 
