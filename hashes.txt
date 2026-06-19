@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Deseo en
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:21:37.456442 | `v1` | `2817c52d3300c327e95164f6b4d02cbab8e2ed25d30e2a8270112964ca8f4ccd` | `219bd5aecad1c784ca7e56defe301219699c61358b7e28b0282bac00a03e798a` | `2026-06-20_deseo-en-penumbras-v1.txt` |
+| 2026-06-20T01:32:51.853414 | `v2` | `06f8cebb3648ae46785606ea5825d389d869a762ea00806341ddcb9d974920f5` | `354776491f334863b948f81bdbb31d794108fdd4893ea92c15aeb731c21c774a` | `2026-06-20_deseo-en-penumbras-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
